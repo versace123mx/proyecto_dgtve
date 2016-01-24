@@ -1,0 +1,18 @@
+[23-Jan-2016 21:15:08 UTC] PHP Fatal error:  Call to undefined function session_unregister() in C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php on line 3
+[23-Jan-2016 21:15:08 UTC] PHP Stack trace:
+[23-Jan-2016 21:15:08 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:0
+[23-Jan-2016 21:47:57 UTC] PHP Fatal error:  Call to undefined function session_unregister() in C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php on line 3
+[23-Jan-2016 21:47:57 UTC] PHP Stack trace:
+[23-Jan-2016 21:47:57 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:0
+[23-Jan-2016 21:48:22 UTC] PHP Warning:  session_destroy() expects exactly 0 parameters, 1 given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php on line 4
+[23-Jan-2016 21:48:22 UTC] PHP Stack trace:
+[23-Jan-2016 21:48:22 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:0
+[23-Jan-2016 21:48:22 UTC] PHP   2. session_destroy() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:4
+[23-Jan-2016 21:48:31 UTC] PHP Warning:  session_destroy() expects exactly 0 parameters, 1 given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php on line 4
+[23-Jan-2016 21:48:31 UTC] PHP Stack trace:
+[23-Jan-2016 21:48:31 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:0
+[23-Jan-2016 21:48:31 UTC] PHP   2. session_destroy() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:4
+[23-Jan-2016 21:48:42 UTC] PHP Warning:  session_destroy() expects exactly 0 parameters, 1 given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php on line 4
+[23-Jan-2016 21:48:42 UTC] PHP Stack trace:
+[23-Jan-2016 21:48:42 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:0
+[23-Jan-2016 21:48:42 UTC] PHP   2. session_destroy() C:\wamp\www\DGTVE\flash\telefonos_flash\script\exit\exit.php:4

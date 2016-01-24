@@ -1,0 +1,79 @@
+[12-Jan-2016 14:59:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 14:59:03 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:03 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:03 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:2
+[12-Jan-2016 14:59:03 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 14:59:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[12-Jan-2016 14:59:04 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:04 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:04 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[12-Jan-2016 14:59:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 14:59:30 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:30 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:30 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:2
+[12-Jan-2016 14:59:30 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 14:59:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[12-Jan-2016 14:59:31 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:31 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:31 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[12-Jan-2016 14:59:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 14:59:46 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:46 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:46 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:2
+[12-Jan-2016 14:59:46 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 14:59:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[12-Jan-2016 14:59:47 UTC] PHP Stack trace:
+[12-Jan-2016 14:59:47 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[12-Jan-2016 14:59:47 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[13-Jan-2016 15:13:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[13-Jan-2016 15:13:48 UTC] PHP Stack trace:
+[13-Jan-2016 15:13:48 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[13-Jan-2016 15:13:48 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[13-Jan-2016 15:16:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[13-Jan-2016 15:16:43 UTC] PHP Stack trace:
+[13-Jan-2016 15:16:43 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[13-Jan-2016 15:16:43 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[13-Jan-2016 15:19:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[13-Jan-2016 15:19:46 UTC] PHP Stack trace:
+[13-Jan-2016 15:19:46 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[13-Jan-2016 15:19:46 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[13-Jan-2016 15:22:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[13-Jan-2016 15:22:22 UTC] PHP Stack trace:
+[13-Jan-2016 15:22:22 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[13-Jan-2016 15:22:22 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:00:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:00:24 UTC] PHP Stack trace:
+[23-Jan-2016 21:00:24 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:00:24 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:00:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:00:36 UTC] PHP Stack trace:
+[23-Jan-2016 21:00:36 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:00:36 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:01:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:01:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:01:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:01:50 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:01:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:01:54 UTC] PHP Stack trace:
+[23-Jan-2016 21:01:54 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:01:54 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:02:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:02:00 UTC] PHP Stack trace:
+[23-Jan-2016 21:02:00 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:02:00 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:05:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:05:43 UTC] PHP Stack trace:
+[23-Jan-2016 21:05:43 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:05:43 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:05:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:05:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:05:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:05:50 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:07:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:07:29 UTC] PHP Stack trace:
+[23-Jan-2016 21:07:29 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:07:29 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7
+[23-Jan-2016 21:07:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php on line 7
+[23-Jan-2016 21:07:59 UTC] PHP Stack trace:
+[23-Jan-2016 21:07:59 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:0
+[23-Jan-2016 21:07:59 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\DGTVE\flash\telefonos_flash\datos.php:7

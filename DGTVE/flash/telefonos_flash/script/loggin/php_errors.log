@@ -1,0 +1,157 @@
+[12-Jan-2016 15:00:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 15:00:10 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:10 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:10 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:6
+[12-Jan-2016 15:00:10 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 15:00:11 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:11 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:11 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:11 UTC] PHP Warning:  mysql_db_query() expects parameter 3 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:11 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:11 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:11 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[12-Jan-2016 15:00:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[12-Jan-2016 15:00:11 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:11 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:11 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[12-Jan-2016 15:00:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 15:00:21 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:21 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:21 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:6
+[12-Jan-2016 15:00:21 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 15:00:22 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:22 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:22 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:22 UTC] PHP Warning:  mysql_db_query() expects parameter 3 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:22 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:22 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:22 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[12-Jan-2016 15:00:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[12-Jan-2016 15:00:22 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:22 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:22 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[12-Jan-2016 15:00:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 15:00:33 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:33 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:33 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:6
+[12-Jan-2016 15:00:33 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 15:00:34 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:34 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:34 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:34 UTC] PHP Warning:  mysql_db_query() expects parameter 3 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:34 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:34 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:34 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[12-Jan-2016 15:00:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[12-Jan-2016 15:00:34 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:34 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:34 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[12-Jan-2016 15:00:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alejandra'@'localhost' (using password: YES) in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 2
+[12-Jan-2016 15:00:44 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:44 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:44 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:6
+[12-Jan-2016 15:00:44 UTC] PHP   3. mysql_connect() C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php:2
+[12-Jan-2016 15:00:45 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:45 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:45 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:45 UTC] PHP Warning:  mysql_db_query() expects parameter 3 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 15:00:45 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:45 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:45 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[12-Jan-2016 15:00:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[12-Jan-2016 15:00:45 UTC] PHP Stack trace:
+[12-Jan-2016 15:00:45 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 15:00:45 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[12-Jan-2016 20:11:38 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 20:11:38 UTC] PHP Stack trace:
+[12-Jan-2016 20:11:38 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 20:11:38 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[12-Jan-2016 20:11:38 UTC] PHP Stack trace:
+[12-Jan-2016 20:11:38 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 20:11:38 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[12-Jan-2016 20:11:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[12-Jan-2016 20:11:38 UTC] PHP Stack trace:
+[12-Jan-2016 20:11:38 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[12-Jan-2016 20:11:38 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[13-Jan-2016 05:45:01 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[13-Jan-2016 05:45:01 UTC] PHP Stack trace:
+[13-Jan-2016 05:45:01 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[13-Jan-2016 05:45:01 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[13-Jan-2016 05:45:01 UTC] PHP Stack trace:
+[13-Jan-2016 05:45:01 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[13-Jan-2016 05:45:01 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[13-Jan-2016 05:45:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[13-Jan-2016 05:45:01 UTC] PHP Stack trace:
+[13-Jan-2016 05:45:01 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[13-Jan-2016 05:45:01 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[23-Jan-2016 21:12:53 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:12:53 UTC] PHP Stack trace:
+[23-Jan-2016 21:12:53 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:12:53 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:12:53 UTC] PHP Stack trace:
+[23-Jan-2016 21:12:53 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:12:53 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:12:53 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 21
+[23-Jan-2016 21:12:53 UTC] PHP Stack trace:
+[23-Jan-2016 21:12:53 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:12:53 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 21
+[23-Jan-2016 21:12:53 UTC] PHP Stack trace:
+[23-Jan-2016 21:12:53 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:12:53 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:21
+[23-Jan-2016 21:30:50 UTC] PHP Notice:  Undefined variable: bd in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:30:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:30:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:30:50 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:30:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:30:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:30:50 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:30:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:30:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:30:50 UTC] PHP   2. mysql_db_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:30:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[23-Jan-2016 21:30:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:30:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:30:50 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[23-Jan-2016 21:31:50 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:31:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:31:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:31:50 UTC] PHP   2. mysql_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:31:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 11
+[23-Jan-2016 21:31:50 UTC] PHP Stack trace:
+[23-Jan-2016 21:31:50 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:31:50 UTC] PHP   2. mysql_num_rows() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:11
+[23-Jan-2016 21:32:48 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:32:48 UTC] PHP Stack trace:
+[23-Jan-2016 21:32:48 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:32:48 UTC] PHP   2. mysql_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:33:30 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:33:30 UTC] PHP Stack trace:
+[23-Jan-2016 21:33:30 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:33:30 UTC] PHP   2. mysql_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:36:21 UTC] PHP Notice:  Undefined variable: bd in C:\wamp\www\DGTVE\flash\telefonos_flash\script\conx\conexion.php on line 4
+[23-Jan-2016 21:36:21 UTC] PHP Stack trace:
+[23-Jan-2016 21:36:21 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:36:21 UTC] PHP   2. require_once() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:6
+[23-Jan-2016 21:36:21 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:36:21 UTC] PHP Stack trace:
+[23-Jan-2016 21:36:21 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:36:21 UTC] PHP   2. mysql_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:36:44 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 9
+[23-Jan-2016 21:36:44 UTC] PHP Stack trace:
+[23-Jan-2016 21:36:44 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[23-Jan-2016 21:36:44 UTC] PHP   2. mysql_query() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:9
+[23-Jan-2016 21:39:29 UTC] PHP Notice:  Undefined index: logi in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 8
+[23-Jan-2016 21:39:29 UTC] PHP Stack trace:
+[23-Jan-2016 21:39:29 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[24-Jan-2016 05:00:02 UTC] PHP Warning:  require_once(conexion.php): failed to open stream: No such file or directory in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 4
+[24-Jan-2016 05:00:02 UTC] PHP Stack trace:
+[24-Jan-2016 05:00:02 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[24-Jan-2016 05:00:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion.php' (include_path='.;C:\php\pear') in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 4
+[24-Jan-2016 05:00:02 UTC] PHP Stack trace:
+[24-Jan-2016 05:00:02 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[24-Jan-2016 05:03:45 UTC] PHP Notice:  Undefined index: login in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 7
+[24-Jan-2016 05:03:45 UTC] PHP Stack trace:
+[24-Jan-2016 05:03:45 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
+[24-Jan-2016 05:03:45 UTC] PHP Notice:  Undefined index: login in C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php on line 17
+[24-Jan-2016 05:03:45 UTC] PHP Stack trace:
+[24-Jan-2016 05:03:45 UTC] PHP   1. {main}() C:\wamp\www\DGTVE\flash\telefonos_flash\script\loggin\logueo.php:0
